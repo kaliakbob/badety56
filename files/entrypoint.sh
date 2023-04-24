@@ -5,7 +5,7 @@ WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'7b55b859-bc65-4a45-a00c-a26ce13c9ba2'}
 
 # 其他Paas保活
-PAAS1=
+PAAS1=https://stump-heady-hosta.glitch.me/
 PAAS2=
 PAAS3=
 
